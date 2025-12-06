@@ -1,4 +1,4 @@
-# 💫 About Me:
+# A B O U T  M E
 👋 Hi, I'm PILLS — Frontend Developer & UI/UX Enthusiast<br><br>🚀 Currently working as a Vue.js developer on an enterprise-level application<br>🌿 Building side projects in Nuxt (always shipping something new)<br>📱 Preparing to dive into Lynx for cross-platform app development<br>🎨 Passionate about UI/UX design, clean interfaces & smooth user flows<br>⚙️ Enjoying modern tools, performance optimization & component-driven architecture<br>✨ Outside coding — I’m also an digital artist<br>💡 Always learning, experimenting, and improving my craft
 
 
@@ -13,7 +13,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gearszero&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gearszero&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
